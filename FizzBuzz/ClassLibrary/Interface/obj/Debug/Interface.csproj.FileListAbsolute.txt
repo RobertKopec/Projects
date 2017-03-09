@@ -1,0 +1,8 @@
+C:\Users\Blackbeary\Desktop\FizzBuzz\ClassLibrary\Interface\bin\Debug\Interface.exe.config
+C:\Users\Blackbeary\Desktop\FizzBuzz\ClassLibrary\Interface\bin\Debug\Interface.exe
+C:\Users\Blackbeary\Desktop\FizzBuzz\ClassLibrary\Interface\bin\Debug\Interface.pdb
+C:\Users\Blackbeary\Desktop\FizzBuzz\ClassLibrary\Interface\bin\Debug\ClassLibrary.dll
+C:\Users\Blackbeary\Desktop\FizzBuzz\ClassLibrary\Interface\bin\Debug\ClassLibrary.pdb
+C:\Users\Blackbeary\Desktop\FizzBuzz\ClassLibrary\Interface\obj\Debug\Interface.csprojResolveAssemblyReference.cache
+C:\Users\Blackbeary\Desktop\FizzBuzz\ClassLibrary\Interface\obj\Debug\Interface.exe
+C:\Users\Blackbeary\Desktop\FizzBuzz\ClassLibrary\Interface\obj\Debug\Interface.pdb

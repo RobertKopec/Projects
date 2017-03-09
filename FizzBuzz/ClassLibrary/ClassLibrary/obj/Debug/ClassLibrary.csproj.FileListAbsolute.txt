@@ -1,0 +1,5 @@
+C:\Users\Blackbeary\Desktop\FizzBuzz\ClassLibrary\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\Blackbeary\Desktop\FizzBuzz\ClassLibrary\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\Blackbeary\Desktop\FizzBuzz\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Blackbeary\Desktop\FizzBuzz\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\Blackbeary\Desktop\FizzBuzz\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.pdb
